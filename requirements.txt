@@ -1,0 +1,11 @@
+transformers
+datasets
+torch
+tqdm
+matplotlib
+pandas
+peft
+lion-pytorch
+flask
+gradio
+numpy
