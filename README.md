@@ -42,7 +42,7 @@ Built with Hugging Face’s `transformers`, Google's `Gemma`, and parameter-effi
 
 ## 🖼 Deployed UI Snapshot
 
-![App Screenshot](https://huggingface.co/spaces/dushyant22/Financial_Sentiment_Analysis/resolve/main/demo_ui.png) <!-- Replace this with actual hosted screenshot if needed -->
+![App Screenshot](https://github.com/dushyantverma22/Financial-Sentiment-Analysis/blob/main/sentiment_analy.png) <!-- Replace this with actual hosted screenshot if needed -->
 
 🔗 **Live Demo**: [Click here to try the app](https://huggingface.co/spaces/dushyant22/Financial_Sentiment_Analysis)
 
